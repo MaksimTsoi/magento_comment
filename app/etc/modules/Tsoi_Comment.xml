@@ -1,0 +1,8 @@
+<config>
+    <modules>
+        <Tsoi_Comment>
+            <active>true</active>
+            <codePool>local</codePool>
+        </Tsoi_Comment>
+    </modules>
+</config>

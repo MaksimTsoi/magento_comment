@@ -1,0 +1,6 @@
+app/code/local/Tsoi/Comment                                                             app/code/local/Tsoi/Comment
+app/design/frontend/base/default/layout/tsoi_comment.xml                                app/design/frontend/base/default/layout/tsoi_comment.xml
+app/design/frontend/base/default/template/tsoi_comment/list.phtml                       app/design/frontend/base/default/template/tsoi_comment/list.phtml
+app/etc/modules/Tsoi_Comment.xml                                                        app/etc/modules/Tsoi_Comment.xml
+app/locale/de_DE/Tsoi_Comment.csv                                                       app/locale/de_DE/Tsoi_Comment.csv
+app/locale/en_US/Tsoi_Comment.csv                                                       app/locale/en_US/Tsoi_Comment.csv

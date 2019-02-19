@@ -1,0 +1,7 @@
+<layout version="0.1.0">
+    <tsoi_comment_index_index>
+        <reference name="content">
+            <block type="tsoi_comment/list" name="tsoi_comment.list" template="tsoi_comment/list.phtml"></block>
+        </reference>
+    </tsoi_comment_index_index>
+</layout>
